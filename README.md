@@ -8,7 +8,7 @@ Prototype non finalisé développé dans le cadre de la thèse de doctorat d'Ant
 
 ## Programs and software used
 
-- [Hugo](https://gohugo.io/): a static site generator
+- [Hugo](https://gohugo.io/): a static site generator 
 - [Hitchens](https://github.com/patdryburgh/hitchens): a theme developed by Pat Dryburgh initially for Jekyll
 - [GitLab CI/CD](https://docs.gitlab.com/ee/ci/): a continuous integration/development tool and platform developed and hosted by GitLab
 
