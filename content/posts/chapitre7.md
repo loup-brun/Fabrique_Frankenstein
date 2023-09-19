@@ -1,9 +1,9 @@
 +++
-chapter = "Chapitre [numéro]"
+chapter = "Chapitre [7]"
 date = "2020-10-31T10:01:00.000+00:00"
 image = "images/logo.png"
 title = ""
-weight = [2 si chapitre 1, 3 si chapitre 2, etc.]
+weight = 8
 chapitre = "oui"
 +++
 
