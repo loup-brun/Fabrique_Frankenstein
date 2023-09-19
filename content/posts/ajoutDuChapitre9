@@ -3,7 +3,7 @@ chapter = "Chapitre 9"
 date = "2020-10-31T10:01:00.000+00:00"
 image = "images/logo.png"
 title = "Frankenstein, or the Modern Prometheus (Revised Edition, 1831) — CHAPTER IX"
-weight = [9]
+weight = 9
 chapitre = "oui"
 auteur = "Mary Wollstonecraft Shelley"
 +++
