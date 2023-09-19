@@ -1,9 +1,9 @@
 +++
-chapter = "Chapitre [5]"
+chapter = "Chapitre 5"
 date = "2020-10-31T10:01:00.000+00:00"
 image = "images/logo.png"
 title = ""
-weight = [2 si chapitre 1, 3 si chapitre 2, etc.]
+weight = 6
 chapitre = "oui"
 +++
 Frankenstein, or the Modern Prometheus (Revised Edition, 1831) — CHAPTER V
